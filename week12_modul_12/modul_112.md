@@ -1,4 +1,4 @@
-#  Laporan Praktikum Modul 10 IP (Internet Protocol)
+#  Laporan Praktikum Modul 12 ICMP 
 Nur Ro'yul Amin 103072400159 
 
 ---
